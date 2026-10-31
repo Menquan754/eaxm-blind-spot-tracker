@@ -1,0 +1,62 @@
+# ------------------------------------------------------------------
+# HarmonyOS / DevEco Studio build outputs and caches
+# ------------------------------------------------------------------
+/build/
+**/build/
+/.hvigor/
+**/.hvigor/
+/oh_modules/
+**/oh_modules/
+/.preview/
+**/.preview/
+**/.test/
+/.appanalyzer/
+/.ohpm/
+/node_modules/
+.cxx/
+.clangd
+.clang-format
+.clang-tidy
+*.hap
+*.hsp
+*.app
+*.har
+*.abc
+
+# ------------------------------------------------------------------
+# Signing material and local secrets (never commit)
+# ------------------------------------------------------------------
+local.properties
+*.p12
+*.cer
+*.p7b
+*.csr
+*.p8
+*.jks
+*.keystore
+*.key
+*.pem
+/signing/
+/signature/
+
+# ------------------------------------------------------------------
+# IDE / local tooling
+# ------------------------------------------------------------------
+/.idea/
+/.vscode/
+/.trae/
+/Huawei/
+*.iml
+*.log
+
+# ------------------------------------------------------------------
+# Screenshots and temporary folders
+# ------------------------------------------------------------------
+/.screenshots/
+/.docs-temp/
+
+# ------------------------------------------------------------------
+# OS
+# ------------------------------------------------------------------
+.DS_Store
+Thumbs.db

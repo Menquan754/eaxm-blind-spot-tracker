@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0A2E6E"/>
+      <stop offset="0.55" stop-color="#0A4AE0"/>
+      <stop offset="1" stop-color="#2F7BFF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 圆角背景 -->
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="url(#bg)"/>
+
+  <!-- 顶部对勾徽章（对勾加深，与背景区分） -->
+  <rect x="216" y="64" width="80" height="80" rx="22" fill="#FFFFFF"/>
+  <path d="M236 106 L253 123 L278 94" fill="none" stroke="#083BC4" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 打开的书（轮廓+中脊） -->
+  <path d="M138 214
+           C 188 214 226 172 256 200
+           C 286 172 324 214 374 214
+           L 374 330
+           C 324 330 286 372 256 344
+           C 226 372 188 330 138 330
+           Z"
+        fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linejoin="round"/>
+  <line x1="256" y1="200" x2="256" y2="344" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round"/>
+
+  <!-- 右侧页上的追踪准星（缩小环、加大中心点，与书页留出间距） -->
+  <circle cx="330" cy="286" r="34" fill="none" stroke="#FFFFFF" stroke-width="14"/>
+  <circle cx="330" cy="286" r="12" fill="#FFFFFF"/>
+  <line x1="330" y1="242" x2="330" y2="252" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round"/>
+  <line x1="330" y1="320" x2="330" y2="330" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round"/>
+</svg>
