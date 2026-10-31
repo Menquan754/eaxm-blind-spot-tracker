@@ -1,4 +1,4 @@
-﻿/**
+/**
  * 设置：主题切换 / 数据备份导出 / 重置预置大学课程 / 清空数据 / 关于
  */
 import { getStore } from '../../database/AppDatabase';

@@ -1,4 +1,4 @@
-﻿/**
+/**
  * 趋势分析：总体统计 + 知识点选择 -> 正确率折线图（Canvas 自绘）+ 能力雷达图 + 反复出错主题榜
  */
 import { getWeakStats, getKpTrend, getDimStats } from '../../service/WeaknessService';

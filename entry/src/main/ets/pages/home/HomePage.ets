@@ -1,4 +1,4 @@
-﻿/**
+/**
  * 首页概览：问候 + 统计卡 + 学科正确率 + 薄弱点 Top5 + 复习待办 + 热力
  */
 import { getWeakStats, getDailyHeat } from '../../service/WeaknessService';

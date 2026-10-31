@@ -60,8 +60,8 @@ passwords**. Follow these steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Menquan754/eaxm-blind-spot-tracker.git
-   cd eaxm-blind-spot-tracker
+   git clone https://github.com/Menquan754/zhizong-harmonyos-learning-tracker.git
+   cd zhizong-harmonyos-learning-tracker
    ```
 
 2. **Install the SDK** — open DevEco Studio → *Settings → SDK Manager*, and install

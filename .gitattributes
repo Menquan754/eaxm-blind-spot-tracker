@@ -1,0 +1,7 @@
+# GitHub language detection & line endings
+# ArkTS (.ets) is not natively supported by GitHub Linguist;
+# map it to TypeScript so files get syntax highlighting and language stats.
+*.ets text linguist-language=TypeScript
+*.ts text
+*.json5 text
+*.md text

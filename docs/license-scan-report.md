@@ -4,7 +4,7 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| 扫描对象 | https://github.com/Menquan754/eaxm-blind-spot-tracker |
+| 扫描对象 | https://github.com/Menquan754/zhizong-harmonyos-learning-tracker |
 | 扫描提交 | `0f3a922`（2026-10-29，强制推送前的仓库快照） |
 | 扫描时间 | 2026-10-29，耗时约 4 分钟 |
 | 扫描工具 | ScanCode Toolkit 32.5.0 |

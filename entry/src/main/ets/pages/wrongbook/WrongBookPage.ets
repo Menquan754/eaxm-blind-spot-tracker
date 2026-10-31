@@ -1,4 +1,4 @@
-﻿/**
+/**
  * 错题本：按知识点筛选，展示错题及解析，可标记已掌握/导出 JSON
  */
 import { getPracticeItems, getKps, insertMasteredQuestion, getMasteredQuestions } from '../../database/AppDatabase';

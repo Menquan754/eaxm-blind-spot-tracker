@@ -1,4 +1,4 @@
-﻿/**
+/**
  * 应用主框架：2in1 侧边栏导航
  */
 import { Sidebar } from '../components/Sidebar';
