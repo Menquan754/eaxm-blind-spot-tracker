@@ -1,14 +1,14 @@
-# Zhizong · HarmonyOS PC Learning Blind-Spot Tracker
+# 知踪 Zhizong · HarmonyOS PC Learning Blind-Spot Tracker
 
 <p align="left">
-  <img src="app_icon.png" width="96" alt="Zhizong app icon" />
+  <img src="app_icon.png" width="96" alt="知踪 (Zhizong) app icon" />
 </p>
 
-**Zhizong (知踪)** is a native HarmonyOS PC (2in1) application for university students. It records
+**知踪 (Zhizong)** is a native HarmonyOS PC (2in1) application for university students. It records
 wrong answers, evaluates weak knowledge points, builds Ebbinghaus review plans, and generates
 practice exams from a built-in course library.
 
-English description: *HarmonyOS PC app for tracking learning blind spots with knowledge cards and review plans.*
+English description: *Zhizong (知踪) — HarmonyOS PC app for tracking learning blind spots with knowledge cards and review plans.*
 
 ## Features
 

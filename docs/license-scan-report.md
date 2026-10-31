@@ -109,7 +109,7 @@ ScanCode 的 `--copyright` 扫描在业务源码、资源和配置中均**未发
 
 ```powershell
 # 1. 克隆仓库
-git clone --depth 1 https://github.com/Menquan754/eaxm-blind-spot-tracker.git repo
+git clone --depth 1 https://github.com/Menquan754/zhizong-harmonyos-learning-tracker.git repo
 
 # 2. 执行许可证 / 版权 / 包信息扫描
 scancode --license --copyright --package --info --classify \
